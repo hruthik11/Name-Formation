@@ -1,7 +1,7 @@
 """
 Problem 1: Displacement-based formation control over a random Erdos-Renyi
 communication graph. N = 20 agents move, letter by letter, through the
-of "Pacha Hruthik").
+of " Hruthik").
 
 
 """
